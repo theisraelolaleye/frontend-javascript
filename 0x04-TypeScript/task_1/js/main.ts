@@ -14,3 +14,5 @@ const teacher3: Teacher = {
   location: "London",
   contract: true,
 };
+
+console.log(teacher3);
