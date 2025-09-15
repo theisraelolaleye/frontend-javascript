@@ -79,6 +79,9 @@ function teachClass(todayClass: Subjects): string {
   }
 }
 
+
+
+
 // Example usage:
 const employee1 = createEmployee(200);
 console.log(employee1.workFromHome()); // Cannot work from home
