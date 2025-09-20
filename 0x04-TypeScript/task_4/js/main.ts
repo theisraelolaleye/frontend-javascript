@@ -28,7 +28,7 @@ console.log("Java");
 // Subjects.java.setTeacher = Subjects.cTeacher;
 // console.log(Subjects.java.getRequirements());
 // console.log(Subjects.java.getAvailableTeacher());
-Java.setTeacher(cTeacher);
+java.setTeacher(cTeacher)
 console.log(java.getRequirements());
 console.log(java.getAvailableTeacher());
 
